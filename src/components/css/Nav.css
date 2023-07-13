@@ -1,0 +1,13 @@
+
+.PH::placeholder{
+    color: rgba(245, 245, 245, 0.57) !important;
+}
+.PH:focus{
+    border-color: palegoldenrod !important;
+    box-shadow: 0 0 10px rgba(238, 232, 170, 0.767);
+}
+.c-nav{
+    border-radius: 40px;
+    padding: 20px;
+    z-index: 2;
+}
